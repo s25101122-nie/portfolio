@@ -1,8 +1,8 @@
 學號：25101122
 - 姓名：阮氏夢兒
 - 班級：資管大一
-- 作品網址：https://username.github.io/portfolio
-- GitHub Repo：https://github.com/username/portfolio
+- 作品網址：https://s25101122-nie.github.io/portfolio
+- GitHub Repo：https://github.com/s25101122-nie/portfolio
 
 ## 📌 專題說明
 （簡述你的作品集網站主題與特色）

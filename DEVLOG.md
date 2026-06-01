@@ -1,3 +1,4 @@
+## 2026-04-10：導覽列設計
 原本想法：用 float 排版
 遇到問題：float 難以垂直置中
 改用方案：Flexbox（justify-content: space-between）
